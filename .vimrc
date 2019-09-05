@@ -1,4 +1,5 @@
 " enable syntax highlighting
+colorscheme github
 syntax enable
 
 " show line numbers
