@@ -21,3 +21,15 @@ set showmatch
 
 " enable all Python syntax highlighting features
 let python_highlight_all = 1
+
+" Display 5 lines above/below the cursor when scrolling with a mouse.
+set scrolloff=5
+
+" Status bar
+set laststatus=2
+
+" Encoding
+set encoding=utf-8
+
+" Highlight matching search patterns
+set hlsearch
