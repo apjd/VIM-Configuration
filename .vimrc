@@ -20,7 +20,7 @@ set shiftwidth=4
 set showmatch
 
 " enable all Python syntax highlighting features
-let python_highlight_all = 1
+let python_highlight_all=1
 
 " Display 5 lines above/below the cursor when scrolling with a mouse.
 set scrolloff=5
