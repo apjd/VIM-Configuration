@@ -44,4 +44,5 @@ set hlsearch
 " Use visual bell (no beeping)
 set visualbell
 
-"
+" Encoding
+set encoding=utf-8
